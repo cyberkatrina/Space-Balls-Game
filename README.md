@@ -3,7 +3,7 @@ Space Balls Game in Processing 4
 
 To fully run the project:
 
-1. Install the Processing Sound Library.
+1. Install the Processing Minim Library.
 2. Download the following files and put them in a "data" folder inside the project directory.
 
 <img width="223" alt="Screenshot 2023-03-12 at 9 59 59 PM" src="https://user-images.githubusercontent.com/113384816/224598320-8ffca0b6-4fe3-4b45-9ea2-5369f8c974b5.png">

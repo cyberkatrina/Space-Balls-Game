@@ -10,6 +10,6 @@ To fully run the project:
 
 [data.zip](https://github.com/cyberkatrina/Space-Balls-Game/files/10953113/data.zip)
 
-The work was split up with my teammates (Rami Awada, Myles Ledet, and Ethan Rose). For our 2D game, we created Space Dash where the player can jump between the planets by pressing space. We added black holes as obstacles, animation of the arms of the player and the planets, the functionality to change the color of the player, sound, and multiple GUI systems to pull it all together. 
+The work was split up with my teammates (Rami Awada, Myles Ledet, and Ethan Rose). For our 2D game, we created Space Dash where the player can jump between the planets by pressing space. We added black holes as obstacles, animation of the arms of the player and the planets, the functionality to change the color of the player, sound, and multiple GUI systems to pull it all together. The player can press 'M' to mute the sounds of the game.
 
 Katsiaryna Aliashkevich was in charge of the sounds, the GUI for the start screen, all of the button classes and visually designing the game's assets as well as implementing color change to the player. Rami Awada was in charge of the physics of the player, black hole, linear black hole, and planet class. He also implemented both animations. Myles Ledet was in charge of all data input/output (level design and high score). Ethan Rose was in charge of the GUI during the game and the end screen.

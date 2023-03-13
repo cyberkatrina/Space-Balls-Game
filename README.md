@@ -14,5 +14,4 @@ The work was split up with my teammates (Rami Awada, Myles Ledet, and Ethan Rose
 
 Katsiaryna Aliashkevich was in charge of the sounds, the GUI for the start screen, all of the button classes and visually designing the game's assets as well as implementing color change to the player. Rami Awada was in charge of the physics of the player, black hole, linear black hole, and planet class. He also implemented both animations. Myles Ledet was in charge of all data input/output (level design and high score). Ethan Rose was in charge of the GUI during the game and the end screen.
 
-<img width="1001" alt="Screenshot 2023-03-12 at 11 20 00 PM" src="https://user-images.githubusercontent.com/113384816/224607472-cb0df1b0-791a-43ed-b29d-5d5c3a68684a.png">
-
+<img width="919" alt="Screenshot 2023-03-12 at 11 21 29 PM" src="https://user-images.githubusercontent.com/113384816/224608053-7c0f82d2-549e-42b2-8ad9-12cf434f25c8.png">

@@ -1,5 +1,5 @@
 # Space-Balls-Game
-Space Balls Game in Processing 4
+Space Balls Game in Processing 4 (Java)
 
 To fully run the project:
 

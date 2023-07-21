@@ -8,8 +8,6 @@ To fully run the project:
 
 <img width="223" alt="Screenshot 2023-03-12 at 9 59 59 PM" src="https://user-images.githubusercontent.com/113384816/224598320-8ffca0b6-4fe3-4b45-9ea2-5369f8c974b5.png">
 
-[data.zip](https://github.com/cyberkatrina/Space-Balls-Game/files/10953113/data.zip)
-
 The work was split up with my teammates (Rami Awada, Myles Ledet, and Ethan Rose). For our 2D game, we created Space Dash where the player can jump between the planets by pressing space. We added black holes as obstacles, animation of the arms of the player and the planets, the functionality to change the color of the player, sound, and multiple GUI systems to pull it all together. The player can press 'M' to mute the sounds of the game. The game increases with difficulty through 5 different levels and keeps a record of the highest score from all local runtimes.
 
 <img width="919" alt="Screenshot 2023-03-12 at 11 21 29 PM" src="https://user-images.githubusercontent.com/113384816/224608053-7c0f82d2-549e-42b2-8ad9-12cf434f25c8.png">
